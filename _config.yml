@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: /other people
+url: /otherpeople
 author: 石聪
 pygments: true
 
