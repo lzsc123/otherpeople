@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-url: /otherpeople
+url: http://lzsc123.github.com/otherpeople
 author: 石聪
 pygments: true
 
